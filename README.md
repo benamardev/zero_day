@@ -1,1 +1,1 @@
-# This is my first repository
+This is main readme file of the repository
